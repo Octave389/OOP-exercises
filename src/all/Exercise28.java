@@ -1,0 +1,11 @@
+package all;
+
+public class Exercise28 {
+    public static void main(String[] args) {
+
+        int count = 0;
+        count++;
+        System.out.println("Incremented count: " + count);
+
+    }
+}
